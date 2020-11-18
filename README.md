@@ -1,6 +1,6 @@
 # hello-world
 Class activity
 
-Hi Evveryone!
+Hi Everyone!
 
 I like oranges.
